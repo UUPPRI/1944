@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# $YEAR
+# 1946
 * [EKON](EKON/)
 * [MARITIM](MARITIM/)
 * [PMK](PMK/)

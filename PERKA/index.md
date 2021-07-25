@@ -1,6 +1,6 @@
 ---
 layout: "layout"
 ---
-# $YEAR
+# 1946
 * [LAN](LAN/)
 * [LIPI](LIPI/)

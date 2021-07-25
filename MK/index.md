@@ -1,5 +1,5 @@
 ---
 layout: "layout"
 ---
-# $YEAR
+# 1946
 * [PUU](PUU/)

@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# $YEAR
+# 1946
 * [AGAMA](AGAMA/)
 * [DAGRI](DAGRI/)
 * [KEMNAKER](KEMNAKER/)
