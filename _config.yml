@@ -1,5 +1,5 @@
 title:       "Himpunan Peraturan NKRI 2021"
-version:     "0002--25-Jul-2021"
+version:     "0003--25-Jul-2021"
 copyright:   "2021-2021"
 description: Himpunan Peraturan NKRI 1946.
       This site is managed by VauLSMorg (vlsm.org) since 2021.
@@ -18,10 +18,10 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://uuppri.github.io/2021/"
+urlweb:           "https://uuppri.github.io/1944/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/UUPPRI/2021/"
-urlghpage:        "https://uuppri.github.io/2021/"
+urlgithub:        "https://github.com/UUPPRI/1944/"
+urlghpage:        "https://uuppri.github.io/1944/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
