@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# 2021
+# $YEAR
 * [AGAMA](AGAMA/)
 * [DAGRI](DAGRI/)
 * [KEMNAKER](KEMNAKER/)

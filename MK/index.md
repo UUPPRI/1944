@@ -1,5 +1,5 @@
 ---
 layout: "layout"
 ---
-# 2021
+# $YEAR
 * [PUU](PUU/)

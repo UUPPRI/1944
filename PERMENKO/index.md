@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# 2021
+# $YEAR
 * [EKON](EKON/)
 * [MARITIM](MARITIM/)
 * [PMK](PMK/)

@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# 2021
+# $YEAR
 * [dgb](dgb/)
 * [mwa](mwa/)
 * [rektor](rektor/)

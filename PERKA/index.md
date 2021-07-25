@@ -1,6 +1,6 @@
 ---
 layout: "layout"
 ---
-# 2021
+# $YEAR
 * [LAN](LAN/)
 * [LIPI](LIPI/)
