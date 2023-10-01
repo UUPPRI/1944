@@ -166,8 +166,10 @@ ESDM
 HAN
 index.md
 KES
-KEUKP
-KOMINFOKUKM
+KEU
+KOMINFO
+KP
+KUKM
 KUMHAM
 LHK
 LU
@@ -198,11 +200,15 @@ index.md
 ./PERMEN/KES:
 index.md
 
-./PERMEN/KEUKP:
+./PERMEN/KEU:
 index.md
 
-./PERMEN/KOMINFOKUKM:
+./PERMEN/KOMINFO:
 index.md
+
+./PERMEN/KP:
+
+./PERMEN/KUKM:
 
 ./PERMEN/KUMHAM:
 index.md
@@ -402,8 +408,8 @@ ESDM
 HAN
 index.html
 KES
-KEUKP
-KOMINFOKUKM
+KEU
+KOMINFO
 KUMHAM
 LHK
 LU
@@ -434,10 +440,10 @@ index.html
 ./_site/PERMEN/KES:
 index.html
 
-./_site/PERMEN/KEUKP:
+./_site/PERMEN/KEU:
 index.html
 
-./_site/PERMEN/KOMINFOKUKM:
+./_site/PERMEN/KOMINFO:
 index.html
 
 ./_site/PERMEN/KUMHAM:
