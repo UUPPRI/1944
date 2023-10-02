@@ -18,6 +18,7 @@ IDX
 _includes
 index.md
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -75,6 +76,9 @@ navbar-top.html
 scripts.html
 
 ./INPRES:
+index.md
+
+./KEPDIRJEN:
 index.md
 
 ./KEPMEN:
@@ -207,8 +211,10 @@ index.md
 index.md
 
 ./PERMEN/KP:
+index.md
 
 ./PERMEN/KUKM:
+index.md
 
 ./PERMEN/KUMHAM:
 index.md
@@ -274,6 +280,7 @@ favicon.ico
 IDX
 index.html
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -321,6 +328,9 @@ includeScript.py
 index.html
 
 ./_site/INPRES:
+index.html
+
+./_site/KEPDIRJEN:
 index.html
 
 ./_site/KEPMEN:
@@ -410,6 +420,8 @@ index.html
 KES
 KEU
 KOMINFO
+KP
+KUKM
 KUMHAM
 LHK
 LU
@@ -444,6 +456,12 @@ index.html
 index.html
 
 ./_site/PERMEN/KOMINFO:
+index.html
+
+./_site/PERMEN/KP:
+index.html
+
+./_site/PERMEN/KUKM:
 index.html
 
 ./_site/PERMEN/KUMHAM:
